@@ -7,6 +7,7 @@ public class Insert {
 	public void sampleTest1()
 	{
 		System.out.println("Testcase1 Roshan");
+		System.out.println("testcase2 balaji");
 	}
 	
 
