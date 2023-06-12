@@ -9,7 +9,7 @@ public class Insert {
 		System.out.println("Testcase1 Roshan");
 		System.out.println("hi");
 		System.out.println("heloo");
-		System.out.println("namaste");
+		System.out.println("namaste london");
 	}
 	
 
