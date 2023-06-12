@@ -12,6 +12,8 @@ public class Insert {
 		System.out.println("heloo");
 		System.out.println("namaste london");
 		System.out.println("testcase2 balaji");
+		System.out.println("TestCase3 Aneyjogi");
+		System.out.println("TestCase3 Krishna");
 		System.out.println("testCase2 ");
 
 
