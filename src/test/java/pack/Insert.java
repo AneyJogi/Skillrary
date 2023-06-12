@@ -1,4 +1,4 @@
-package category_Module;
+package pack;
 
 import org.testng.annotations.Test;
 
@@ -7,7 +7,6 @@ public class Insert {
 	public void sampleTest1()
 	{
 		System.out.println("Testcase1 Roshan");
-		System.out.println("hi");
 	}
 	
 
